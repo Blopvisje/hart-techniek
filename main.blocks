@@ -6,8 +6,8 @@
         . . # . .
         `</field><next><block type="device_pause" id="Z,M}pfcwHr%2YyOW$J(*"><value name="pause"><shadow type="timePicker" id="BXXkv{T-70s6S?NV?syl"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="(I|)S9B+9gFYpug:%$,Y"><field name="LEDS">`
         . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
         . . . . .
         `</field><next><block type="device_pause" id="RuQ+xFpl,xK0lzY+mDyV"><value name="pause"><shadow type="timePicker" id="C=RESv?Q/?od)Y0K=K:("><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
